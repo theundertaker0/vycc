@@ -1,0 +1,21 @@
+
+
+.BgColorBrown{
+    background-color: #412821;
+}
+
+.ColorWhite{
+    color:#FFFFFF;
+}
+
+.footer{
+    padding: 0.8em 0;
+    font-size: 1.5em;
+    color:#412922;
+    font-weight: bold;
+    background-color: #fee995;
+}
+
+.margenInferior{
+    margin-bottom: 1em;
+}
